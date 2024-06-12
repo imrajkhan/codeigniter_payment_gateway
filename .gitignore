@@ -126,4 +126,6 @@ nb-configuration.xml
 /phpunit*.xml
 /.phpunit.*.cache
 
-app\Config\App.php
+writable/
+app/Config/App.php
+public/index.php
